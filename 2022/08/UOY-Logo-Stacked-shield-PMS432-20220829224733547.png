@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="author" content="University of York">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>401 - University of York</title>
+  <!-- Description meta -->
+  
+  <!-- Keywords meta -->
+  
+  <!-- Open Graph -->
+  
+  <!-- Twitter Card -->
+  
+  <!-- JSON-LD -->
+  
+  <!-- Funnelback metadata -->
+  
+  <!-- Data layer -->
+  
+
+  <!-- Head end -->
+   <link rel="preload" href="https://use.typekit.net/dvj8rpp.css" as="style">
+   <link rel="preload" href="https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/l?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=n3&v=3" as="font" crossorigin="anonymous">
+   <link rel="preload" href="https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=n7&v=3" as="font" crossorigin="anonymous">
+   <link rel="preload" href="https://use.typekit.net/af/17d530/00000000000000003b9aee4f/27/l?primer=7401cd9b0fa4555d75aa9adaba09ad7f48141f1762492082c4de9de709de2ddd&fvd=n6&v=3" as="font" crossorigin="anonymous">
+   <link rel="preload" href="https://use.typekit.net/af/2841b6/00000000000000000000e806/27/l?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=i7&v=3" as="font" crossorigin="anonymous">
+   <link rel="preload" href="https://www.york.ac.uk/static/stable/fonts/fontawesome-webfont.woff2?v=4.7.0"  as="font" crossorigin="anonymous">
+
+  <link rel="search" type="application/opensearchdescription+xml" title="University of York" href="https://www.york.ac.uk/static/stable/opensearch.xml">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.york.ac.uk/static/stable/img/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="https://www.york.ac.uk/static/stable/img/favicons/favicon-64x64.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://www.york.ac.uk/static/stable/img/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://www.york.ac.uk/static/stable/img/favicons/favicon-16x16.png">
+  <link rel="manifest" href="https://www.york.ac.uk/static/stable/img/favicons/webmanifest.json">
+  <link rel="mask-icon" href="https://www.york.ac.uk/static/stable/img/favicons/safari-pinned-tab.svg" color="#0f3d4c">
+  <link rel="shortcut icon" href="https://www.york.ac.uk/static/stable/img/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#f0f2e9">
+  <meta name="msapplication-config" content="https://www.york.ac.uk/static/stable/img/favicons/browserconfig.xml">
+  <meta name="theme-color" content="#f0f2e9">
+
+  <link rel="stylesheet" href="https://www.york.ac.uk/static/stable/css/styles.min.css" media="screen">
+
+  <!-- Included to avoid encoded special chars in Salesforce chat -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/1.0.7/purify.min.js"></script>
+
+  <script src="https://www.york.ac.uk/static/stable/js/modernizr.min.js"></script>
+  <script src="https://www.york.ac.uk/static/stable/js/app.min.js"></script>
+
+  <link rel="stylesheet" href="https://use.typekit.net/dvj8rpp.css">
+
+  <!-- Print styles -->
+  <link rel="stylesheet" href="https://www.york.ac.uk/static/stable/css/print.min.css" media="print">
+
+  <!-- Google Tag Manager -->
+  <!-- Contact communications-support@york.ac.uk for advice on adding Google Analytics tracking to other University of York subdomains / web applications.  -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WXLX54');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- stable -->
+
+</head>
+
+
+<!-- Header + mobile search -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXLX54" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<a href="#Main-Content" class="o-skip-link">Skip to content</a>
+<a href="https://www.york.ac.uk/about/legal-statements/accessibility/" class="o-skip-link">Accessibility statement</a>
+
+<header class="c-main-header" role="banner">
+  <div class="o-wrapper o-grid">
+    <div class="o-grid__row">
+      <div class="o-grid__box o-grid__box--threequarters o-grid__box--threequarters@medium o-grid__box--threequarters@small o-grid__box--threequarters@tiny">
+        <h2 class="c-main-header__title"><a href="https://www.york.ac.uk/"><img class="c-main-header__logo" src="https://www.york.ac.uk/static/stable/img/logo.svg" alt="University of York" width="250" height="40"></a></h2>
+      </div>
+      <div class="o-grid__box o-grid__box--quarter o-grid__box--quarter@medium o-grid__box--quarter@small o-grid__box--quarter@tiny">
+        <form action="https://www.york.ac.uk/search" method="get" class="c-form c-form--joined c-form--header is-hidden@medium-" autocomplete="off">
+          <fieldset>
+            <div class="c-form__element">
+              <input class="c-form__input c-form__input--text" type="text" id="q-search" aria-label="Search" name="q" placeholder="Search york.ac.uk" />
+              <input type="hidden" name="site" value="yorkweb">
+              <button type="submit" class="c-btn c-btn--medium" aria-label="Search"><i class="c-icon c-icon--search" aria-hidden="true"></i></button>
+            </div>
+          </fieldset>
+        </form>
+        <!-- Mobile search -->
+        <a href="#Mobile-Search" class="c-mobile-search-button js-toggle-mobile-search is-hidden@large+" aria-label="Search"><i class="c-icon c-icon--search" aria-hidden="true"></i></a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<form action="https://www.york.ac.uk/search" method="get" class="c-form c-form--joined c-form--mobile-search" id="Mobile-Search">
+  <fieldset class="c-form__fieldset">
+    <legend class="c-form__legend">Search york.ac.uk</legend>
+    <div class="o-grid">
+      <div class="o-grid__row">
+        <div class="o-grid__box o-grid__box--full">
+          <div class="c-form__element">
+            <input class="c-form__input c-form__input--text" type="text" id="q-mobile" name="q" aria-label="Search" />
+            <input type="hidden" name="site" value="yorkweb">
+            <button type="submit" class="c-btn c-btn--medium" aria-label="Search">Search</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </fieldset>
+</form>
+    
+<!-- Main nav -->
+<nav class="c-nav c-nav--main" role="navigation" id="Main-Navigation">
+   <ul class="c-nav__list c-nav__list--structural">
+	<li class="c-nav__item"><a href="https://www.york.ac.uk/study/">Study</a></li>
+    <li class="c-nav__item"><a href="https://www.york.ac.uk/research/">Research</a></li>
+    <li class="c-nav__item"><a href="https://www.york.ac.uk/business/">Business</a></li>
+    <li class="c-nav__item"><a href="https://www.york.ac.uk/about">About</a></li>
+    <li class="c-nav__item"><a href="https://www.york.ac.uk/global/">Global</a></li>
+    <li class="c-nav__item"><a href="https://www.york.ac.uk/news-and-events/news/">News</a></li>
+    <li class="c-nav__item"><a href="https://www.york.ac.uk/news-and-events/events">Events</a></li>
+     <li class="c-nav__item c-nav__item--more"><a class="c-nav__link js-toggle-button" href="#Main-Navigation">More&hellip;</a></li>
+  </ul>
+  <!--h4 class="c-nav__header">All sections</h4>
+  <ul class="c-nav__list c-nav__list--associative">
+	
+  </ul-->
+   
+
+</nav>
+
+
+<div class="o-wrapper o-wrapper--main o-grid js-wrapper--main" id="Main-Content">
+  <div class="o-grid__row o-grid__row--default">
+      <div class="o-grid__box o-grid__box--full">
+        <h1>You need to log in to access this page</h1>
+
+        <div class="c-alert c-alert--warning ">
+
+  <div class="c-alert__content">
+    <p>
+      You must provide a valid username and password.
+    </p>
+    <p>To be prompted to log in again, press the refresh/reload button in your browser.</p>
+  </div>
+</div>
+
+
+        <div class="c-show-more js-show-more" data-default-height="2" data-more-text="Can't log in?" data-less-text="Hide">
+          <div class="c-show-more__content">
+
+            <h2>Can't log in?</h2>
+
+              <ul>
+                <li>
+                  <strong>Are you using the correct username?</strong> Your University username is made up of letters followed by numbers eg abc8, defg501. Don't include "@york.ac.uk".
+                </li>
+                <li>
+                  <strong>Forgotten your password?</strong> Change it by going to <a href="https://idm.york.ac.uk/idm/user/login.jsp">Identity Manager</a>, entering your username, and clicking 'Forgot Password?'.
+                </li>
+                <li>
+                  <strong>Have you registered your IT account?</strong> Before you can log in, you need to <a href="https://www.york.ac.uk/it-services/accounts/#tab-2">register your account</a>.
+                </li>
+              </ul>
+
+        <p>If you're still unable to access the page, and you think you should be able to, please get in touch:</p>
+
+        <p><a class="c-btn c-btn--medium" href="https://www.york.ac.uk/error-pages/report-access/">Contact IT Support</a></p>
+<script>
+var referrerURL = encodeURIComponent(document.referrer);
+var thisPageURL = encodeURIComponent(location.href);
+var reportURL = 'https://www.york.ac.uk/error-pages/report-access/?referrer='+referrerURL+'&url='+thisPageURL;
+$("a[href='https://www.york.ac.uk/error-pages/report-access/']").attr('href', reportURL);
+</script>
+          <br />
+      </div>
+      </div>
+
+        <p class="right">(Error 401: Unauthorised)</p>
+
+      </div>
+    </div></div>
+
+<footer class="c-footer-main">
+  <div class="o-grid o-wrapper">
+    <div class="o-grid__row">
+      <div class="o-grid__box o-grid__box--quarter o-grid__box--half@small o-grid__box--full@tiny">
+        <h3 class="c-footer-main__heading" id="information-links">Information for</h3>
+        <ul>
+          <li><a href="https://www.york.ac.uk/study/" aria-labelledby="information-links prospective-students" id="prospective-students">Prospective students</a></li>
+          <li><a href="https://www.york.ac.uk/students/" aria-labelledby="information-links current-students" id="current-students">Current students</a></li>
+          <li><a href="https://www.york.ac.uk/staff/" aria-labelledby="information-links university-staff" id="university-staff">Staff</a></li>
+          <li><a href="https://www.york.ac.uk/alumni/" aria-labelledby="information-links university-alumni" id="university-alumni">Alumni</a></li>
+          <li><a href="https://www.york.ac.uk/news-and-events/for-media/" aria-labelledby="information-links press-media" id="press-media">Press and media</a></li>
+        </ul>
+      </div>
+      <div class="o-grid__box o-grid__box--quarter o-grid__box--half@small o-grid__box--full@tiny">
+        <h3 class="c-footer-main__heading" id="about-links">About</h3>
+        <ul>
+          <li><a href="https://www.york.ac.uk/about/" aria-labelledby="about-links the-university" id="the-university">The University</a></li>
+          <li><a href="https://www.york.ac.uk/research/" aria-labelledby="about-links university-research" id="university-research">Research</a></li>
+          <li><a href="https://www.york.ac.uk/business/" aria-labelledby="about-links university-business" id="university-business">Business</a></li>
+          <li><a href="https://www.york.ac.uk/global/" aria-labelledby="about-links university-global" id="university-global">Global</a></li>
+          <li><a href="https://www.york.ac.uk/news-and-events/news/" aria-labelledby="about-links university-news" id="university-news">News</a></li>
+          <li><a href="https://www.york.ac.uk/news-and-events/events/" aria-labelledby="about-links university-events" id="university-events">Events</a></li>
+          <li><a href="https://www.york.ac.uk/york-unlimited/" aria-labelledby="about-links york-unlimited" id="york-unlimited">York Unlimited</a></li>
+        </ul>
+      </div>
+      <div  class="o-grid__box o-grid__box--quarter o-grid__box--half@small o-grid__box--full@tiny">
+        <h3 class="c-footer-main__heading">Quick links</h3>
+        <ul>
+          <li><a href="https://www.york.ac.uk/about/departments/a-to-z/">A-Z</a></li>
+          <li><a href="https://www.york.ac.uk/about/departments/">Departments</a></li>
+          <li><a href="https://www.york.ac.uk/about/contact/">Contacts</a></li>
+          <li><a href="https://www.york.ac.uk/about/transport-maps-parking/">Maps and directions</a></li>
+          <li><a href="https://www.york.ac.uk/about/term-dates/">Term dates</a></li>
+          <li><a href="https://jobs.york.ac.uk/">Job vacancies</a></li>
+          <li><a href="https://www.york.ac.uk/virtual-visit/">York Virtual Visit</a></li>
+        </ul>
+      </div>
+      <div class="o-grid__box o-grid__box--quarter o-grid__box--half@small o-grid__box--full@tiny">
+        <h3 class="c-footer-main__heading">Contact us</h3>
+        <p class="c-footer-main__address">University of York<br>
+          York<br>
+          YO10 5DD<br>
+          United Kingdom<br>
+        </p>
+        <p>+44 (0) 1904 320 000</p>
+      </div>
+    </div>
+    <div class="o-grid__row">
+      <div class="o-grid__box o-grid__box--threequarters">
+        <p>&copy; University of York <br /> <a href="https://www.york.ac.uk/about/legal-statements/">Legal statements</a> | <a href="https://www.york.ac.uk/about/legal-statements/#tab-4">Privacy</a> | <a href="https://www.york.ac.uk/about/legal-statements/cookies/">Cookies</a> | <a href="https://www.york.ac.uk/about/legal-statements/slavery-human-trafficking/">Modern slavery statement</a> | <a href="https://www.york.ac.uk/about/legal-statements/accessibility/">Accessibility</a></p>
+      </div>
+      <div class="o-grid__box o-grid__box--quarter">
+        <p>
+          <a href="https://twitter.com/uniofyork" aria-label="Follow us on Twitter"><i class="c-icon c-icon--twitter c-icon--2x c-icon--fw" title="Follow us on Twitter" aria-hidden="true"></i></a>
+          <a  href="https://www.facebook.com/universityofyork" aria-label="Like us on Facebook"><i class="c-icon c-icon--facebook c-icon--2x c-icon--fw" title="Like us on Facebook" aria-hidden="true"></i></a>
+          <a href="https://instagram.com/uniofyork" aria-label="Follow us on Instagram"><i class="c-icon c-icon--instagram c-icon--2x  c-icon--fw" title="Follow us on Instagram" aria-hidden="true"></i></a>
+          <a  href="http://www.youtube.com/universityofyorkuk" aria-label="Watch our videos on YouTube"><i class="c-icon c-icon--youtube c-icon--2x c-icon--fw" title="Watch our videos on YouTube" aria-hidden="true"></i></a>
+        </p>
+      </div>
+    </div>
+
+    <!-- global alert function -->
+    <script src="https://www.york.ac.uk/static/globalalert/globalalert.js" async defer></script>
+<!-- Footer start-->
+
+  </div>
+</footer>
+
+</body>
+
+</html><!-- Footer end-->
